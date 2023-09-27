@@ -1,0 +1,1279 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: inc/theme-options.php:124 inc/theme-options.php:126
+#: inc/theme-options.php:130 inc/theme-options.php:184
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-20 22:06+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:25
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:51
+msgid "Primary"
+msgstr ""
+
+#: functions.php:120
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:122
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:142
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:149
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:320
+msgid "Search..."
+msgstr ""
+
+#: functions.php:355
+msgid "Your comment is awaiting modevromonn."
+msgstr ""
+
+#: functions.php:380
+msgid "Write your comment Here"
+msgstr ""
+
+#: functions.php:381
+msgid "Write your Comment"
+msgstr ""
+
+#: functions.php:395
+msgid "Your Name *"
+msgstr ""
+
+#: functions.php:397
+msgid "Your Email *"
+msgstr ""
+
+#: functions.php:399
+msgid "Website"
+msgstr ""
+
+#: single-tour.php:47
+msgid "Tour Booking"
+msgstr ""
+
+#: single-tour.php:133
+msgid "View details"
+msgstr ""
+
+#: inc/demo_install.php:6
+msgid "Demo Import"
+msgstr ""
+
+#: inc/demo_install.php:17
+msgid ""
+"Please waiting for a few minutes, do not close the window or refresh the "
+"page until the data is imported."
+msgstr ""
+
+#: inc/plugin-activator.php:334 inc/required-plugin.php:200
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugin-activator.php:335 inc/required-plugin.php:201
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/plugin-activator.php:337 inc/required-plugin.php:202
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/plugin-activator.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/plugin-activator.php:340 inc/required-plugin.php:203
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/plugin-activator.php:343 inc/required-plugin.php:205
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activator.php:349 inc/required-plugin.php:210
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activator.php:355 inc/required-plugin.php:220
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activator.php:361 inc/required-plugin.php:225
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activator.php:367 inc/required-plugin.php:235
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activator.php:373 inc/required-plugin.php:240
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activator.php:378 inc/required-plugin.php:250
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activator.php:383 inc/required-plugin.php:255
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activator.php:388 inc/required-plugin.php:260
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activator.php:392 inc/required-plugin.php:264
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugin-activator.php:393 inc/plugin-activator.php:920
+#: inc/plugin-activator.php:2626 inc/plugin-activator.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugin-activator.php:394 inc/plugin-activator.php:3252
+#: inc/required-plugin.php:265
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugin-activator.php:395 inc/plugin-activator.php:3045
+#: inc/required-plugin.php:266
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activator.php:397 inc/required-plugin.php:267
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/plugin-activator.php:399 inc/required-plugin.php:268
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/plugin-activator.php:401 inc/required-plugin.php:269
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugin-activator.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugin-activator.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/plugin-activator.php:404 inc/required-plugin.php:270
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugin-activator.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugin-activator.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugin-activator.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/plugin-activator.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/plugin-activator.php:1027 inc/plugin-activator.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugin-activator.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/plugin-activator.php:1214 inc/plugin-activator.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/plugin-activator.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugin-activator.php:2366
+msgid "Required"
+msgstr ""
+
+#: inc/plugin-activator.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugin-activator.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugin-activator.php:2388
+msgid "External Source"
+msgstr ""
+
+#: inc/plugin-activator.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugin-activator.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugin-activator.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugin-activator.php:2414
+msgid "Active"
+msgstr ""
+
+#: inc/plugin-activator.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugin-activator.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugin-activator.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: inc/plugin-activator.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/plugin-activator.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activator.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activator.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activator.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugin-activator.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugin-activator.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugin-activator.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugin-activator.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugin-activator.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugin-activator.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugin-activator.php:2641
+msgid "Source"
+msgstr ""
+
+#: inc/plugin-activator.php:2642
+msgid "Type"
+msgstr ""
+
+#: inc/plugin-activator.php:2646
+msgid "Version"
+msgstr ""
+
+#: inc/plugin-activator.php:2647
+msgid "Status"
+msgstr ""
+
+#: inc/plugin-activator.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/plugin-activator.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/plugin-activator.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugin-activator.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugin-activator.php:2810
+msgid "Install"
+msgstr ""
+
+#: inc/plugin-activator.php:2816
+msgid "Update"
+msgstr ""
+
+#: inc/plugin-activator.php:2819
+msgid "Activate"
+msgstr ""
+
+#: inc/plugin-activator.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugin-activator.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugin-activator.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugin-activator.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugin-activator.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugin-activator.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugin-activator.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/plugin-activator.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugin-activator.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/plugin-activator.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugin-activator.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/plugin-activator.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugin-activator.php:3602 inc/plugin-activator.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugin-activator.php:3602 inc/plugin-activator.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugin-activator.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/plugin-activator.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugin-activator.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/plugin-activator.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugin-activator.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/plugin-activator.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/required-plugin.php:62
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/required-plugin.php:70
+msgid "CMB2"
+msgstr ""
+
+#: inc/required-plugin.php:78
+msgid "WordPress Importer"
+msgstr ""
+
+#: inc/required-plugin.php:87
+msgid "Vromon Plugin"
+msgstr ""
+
+#: inc/required-plugin.php:102
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/required-plugin.php:113
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/required-plugin.php:123
+msgid "KingComposer"
+msgstr ""
+
+#: inc/required-plugin.php:133
+msgid "Slider Revolution"
+msgstr ""
+
+#: inc/required-plugin.php:149
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/required-plugin.php:163
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: inc/required-plugin.php:215
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugin.php:230
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugin.php:245
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-functions.php:128
+msgid "Copyright &copy; 2018 |  All Rights Reserved."
+msgstr ""
+
+#: inc/template-functions.php:200
+msgid "Blog"
+msgstr ""
+
+#: inc/template-functions.php:233
+msgid "Archive - "
+msgstr ""
+
+#: inc/template-functions.php:268
+msgid "Search - "
+msgstr ""
+
+#: inc/template-functions.php:293
+msgid "404 "
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:39
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:56 template-parts/content-audio.php:9
+#: template-parts/content-audio.php:10 template-parts/content-search.php:9
+#: template-parts/content-search.php:10 template-parts/content-video.php:9
+#: template-parts/content-video.php:10 template-parts/content.php:9
+#: template-parts/content.php:10
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:59
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:63
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:66
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:76
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:93 template-parts/content-page.php:32
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/theme-options.php:47 inc/theme-options.php:48
+msgid "Vromon Options"
+msgstr ""
+
+#: inc/theme-options.php:146
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/theme-options.php:147 inc/theme-options.php:152
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/theme-options.php:151
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/theme-options.php:158
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/theme-options.php:183
+msgid "General Settings"
+msgstr ""
+
+#: inc/theme-options.php:190
+msgid "Theme Color"
+msgstr ""
+
+#: inc/theme-options.php:191 inc/theme-options.php:200
+#: inc/theme-options.php:210 inc/theme-options.php:218
+#: inc/theme-options.php:245 inc/theme-options.php:281
+#: inc/theme-options.php:290 inc/theme-options.php:300
+#: inc/theme-options.php:309
+msgid "Choice color here"
+msgstr ""
+
+#: inc/theme-options.php:199
+msgid "Button Hover Color"
+msgstr ""
+
+#: inc/theme-options.php:209
+msgid "Menu Text Color"
+msgstr ""
+
+#: inc/theme-options.php:217
+msgid "Menu Text Hover / Active Color"
+msgstr ""
+
+#: inc/theme-options.php:225
+msgid "Sticky Menu Backgrund Color"
+msgstr ""
+
+#: inc/theme-options.php:226
+msgid "use rgba color here"
+msgstr ""
+
+#: inc/theme-options.php:236
+msgid "Sticky Menu Text Color"
+msgstr ""
+
+#: inc/theme-options.php:237 inc/theme-options.php:327
+#: inc/theme-options.php:337 inc/theme-options.php:346
+msgid "Please use color "
+msgstr ""
+
+#: inc/theme-options.php:244
+msgid "Menu Sticky Text Hover / Active Color"
+msgstr ""
+
+#: inc/theme-options.php:253
+msgid "Main Banner"
+msgstr ""
+
+#: inc/theme-options.php:260
+msgid "Banner Image"
+msgstr ""
+
+#: inc/theme-options.php:261
+msgid "Show / hide banner Image"
+msgstr ""
+
+#: inc/theme-options.php:269
+msgid "Main Banner Image"
+msgstr ""
+
+#: inc/theme-options.php:270
+msgid "upload banner image here"
+msgstr ""
+
+#: inc/theme-options.php:280
+msgid "Banner Backgrund Color"
+msgstr ""
+
+#: inc/theme-options.php:289
+msgid "Banner Text Color"
+msgstr ""
+
+#: inc/theme-options.php:299
+msgid "Banner Inner Border Color"
+msgstr ""
+
+#: inc/theme-options.php:308
+msgid "Banner Inner Backgrund Color"
+msgstr ""
+
+#: inc/theme-options.php:317
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/theme-options.php:326
+msgid "Footer Backgrund Color"
+msgstr ""
+
+#: inc/theme-options.php:336
+msgid "Text Color"
+msgstr ""
+
+#: inc/theme-options.php:345
+msgid "Link Color"
+msgstr ""
+
+#: inc/theme-options.php:355
+msgid "CopyWrite Text"
+msgstr ""
+
+#: inc/theme-options.php:356
+msgid "Write Copywrite text here."
+msgstr ""
+
+#: inc/theme-options.php:370
+msgid "Advance Settings"
+msgstr ""
+
+#: inc/theme-options.php:377
+msgid "Display Preloader"
+msgstr ""
+
+#: inc/theme-options.php:378
+msgid "If yes then click the checkbox."
+msgstr ""
+
+#: inc/theme-options.php:384
+msgid "Only Enable Home Page"
+msgstr ""
+
+#: inc/theme-options.php:386
+msgid "if check this option preloader only will be enable for home page"
+msgstr ""
+
+#: inc/theme-options.php:393
+msgid "Preloader Spinner Backgrund Color"
+msgstr ""
+
+#: inc/theme-options.php:394 inc/theme-options.php:404
+#: inc/theme-options.php:414
+msgid "choice color here"
+msgstr ""
+
+#: inc/theme-options.php:403
+msgid "Preloader Spinner Main Color"
+msgstr ""
+
+#: inc/theme-options.php:413
+msgid "Preloader Spinner Border Color"
+msgstr ""
+
+#: inc/theme-options.php:423
+msgid "Scroll Options"
+msgstr ""
+
+#: inc/theme-options.php:424
+msgid "On / Off toption"
+msgstr ""
+
+#: inc/theme-options.php:430
+msgid "Blog Page Text"
+msgstr ""
+
+#: inc/theme-options.php:431 inc/theme-options.php:439
+#: inc/theme-options.php:447
+msgid "Write Text here "
+msgstr ""
+
+#: inc/theme-options.php:438
+msgid "Archive Page Text"
+msgstr ""
+
+#: inc/theme-options.php:446
+msgid "Search Page Text"
+msgstr ""
+
+#: inc/theme-options.php:455
+msgid "Single Tour Page Options"
+msgstr ""
+
+#: inc/theme-options.php:461
+msgid "Select Contact Form 7"
+msgstr ""
+
+#: inc/theme-options.php:470
+msgid "Google Map API Key"
+msgstr ""
+
+#: inc/theme-options.php:471
+msgid "enter api key here "
+msgstr ""
+
+#: inc/theme-options.php:483
+msgid "Customizer Only"
+msgstr ""
+
+#: inc/theme-options.php:484
+msgid ""
+"<p class=\"description\">This Section should be visible only in Customizer</"
+"p>"
+msgstr ""
+
+#: inc/theme-options.php:490
+msgid "Customizer Only Option"
+msgstr ""
+
+#: inc/theme-options.php:491
+msgid "The subtitle is NOT visible in customizer"
+msgstr ""
+
+#: inc/theme-options.php:492
+msgid "The field desc is NOT visible in customizer."
+msgstr ""
+
+#: inc/theme-options.php:496
+msgid "Opt 1"
+msgstr ""
+
+#: inc/theme-options.php:497
+msgid "Opt 2"
+msgstr ""
+
+#: inc/theme-options.php:498
+msgid "Opt 3"
+msgstr ""
+
+#: inc/theme-options.php:508
+msgid "Documentation"
+msgstr ""
+
+#: inc/vromon_metabox.php:15
+msgid "Page Options"
+msgstr ""
+
+#: inc/vromon_metabox.php:35
+msgid "Rev Slider Alias"
+msgstr ""
+
+#: inc/vromon_metabox.php:40
+msgid "Select any One, Which One You want to display"
+msgstr ""
+
+#: inc/vromon_metabox.php:47
+msgid "Upload Banner Image"
+msgstr ""
+
+#: inc/vromon_metabox.php:57
+msgid "Please upload banner image here "
+msgstr ""
+
+#: inc/vromon_metabox.php:64
+msgid "Post Options"
+msgstr ""
+
+#: inc/vromon_metabox.php:74
+msgid "Audio / Video Post Embed Code "
+msgstr ""
+
+#: inc/vromon_metabox.php:80
+msgid "Embed Code"
+msgstr ""
+
+#: inc/vromon_metabox.php:82
+msgid "enter embed code here"
+msgstr ""
+
+#: inc/vromon_metabox.php:88
+msgid "Service Info"
+msgstr ""
+
+#: inc/vromon_metabox.php:97 inc/vromon_metabox.php:115
+#: kc_extend/extend_kc.php:605
+msgid "Icon"
+msgstr ""
+
+#: inc/vromon_metabox.php:99 inc/vromon_metabox.php:117
+msgid "write icon here"
+msgstr ""
+
+#: inc/vromon_metabox.php:106
+msgid "Why Choice Us Info"
+msgstr ""
+
+#: inc/vromon_metabox.php:124
+msgid "Special Package Info"
+msgstr ""
+
+#: inc/vromon_metabox.php:133
+msgid "Price"
+msgstr ""
+
+#: inc/vromon_metabox.php:135
+msgid "write price here"
+msgstr ""
+
+#: inc/vromon_metabox.php:141
+msgid "Period"
+msgstr ""
+
+#: inc/vromon_metabox.php:143
+msgid "write period here"
+msgstr ""
+
+#: inc/vromon_metabox.php:149 inc/vromon_metabox.php:205
+msgid "Rating"
+msgstr ""
+
+#: inc/vromon_metabox.php:151 inc/vromon_metabox.php:207
+msgid "select rating here"
+msgstr ""
+
+#: inc/vromon_metabox.php:154 inc/vromon_metabox.php:210
+msgid "Rating One"
+msgstr ""
+
+#: inc/vromon_metabox.php:155 inc/vromon_metabox.php:211
+msgid "Rating Two"
+msgstr ""
+
+#: inc/vromon_metabox.php:156 inc/vromon_metabox.php:212
+msgid "Rating Three"
+msgstr ""
+
+#: inc/vromon_metabox.php:157 inc/vromon_metabox.php:213
+msgid "Rating Four"
+msgstr ""
+
+#: inc/vromon_metabox.php:158 inc/vromon_metabox.php:214
+msgid "Rating Five"
+msgstr ""
+
+#: inc/vromon_metabox.php:164
+msgid "Tour Info"
+msgstr ""
+
+#: inc/vromon_metabox.php:173
+msgid "Top Deal"
+msgstr ""
+
+#: inc/vromon_metabox.php:175
+msgid "choice check/uncheck"
+msgstr ""
+
+#: inc/vromon_metabox.php:181 inc/vromon_metabox.php:189
+#: inc/vromon_metabox.php:191
+msgid "Regular Price"
+msgstr ""
+
+#: inc/vromon_metabox.php:183
+msgid "enter text here"
+msgstr ""
+
+#: inc/vromon_metabox.php:197 inc/vromon_metabox.php:199
+msgid "Sale Price"
+msgstr ""
+
+#: inc/vromon_metabox.php:219 kc_extend/extend_kc.php:632
+msgid "Google Map"
+msgstr ""
+
+#: inc/vromon_metabox.php:221
+msgid "Enter Google Map options "
+msgstr ""
+
+#: inc/vromon_metabox.php:226
+msgid "Zoom"
+msgstr ""
+
+#: inc/vromon_metabox.php:228
+msgid "Enter Zoom Number here"
+msgstr ""
+
+#: inc/vromon_metabox.php:234
+msgid "Latitude"
+msgstr ""
+
+#: inc/vromon_metabox.php:236
+msgid "Enter Latitude here"
+msgstr ""
+
+#: inc/vromon_metabox.php:242 kc_extend/extend_kc.php:647
+msgid "Longitude"
+msgstr ""
+
+#: inc/vromon_metabox.php:244
+msgid "Enter Longitude"
+msgstr ""
+
+#: inc/vromon_metabox.php:251
+msgid "Testimonials Info"
+msgstr ""
+
+#: inc/vromon_metabox.php:260
+msgid "Designation"
+msgstr ""
+
+#: inc/vromon_metabox.php:262
+msgid "write designation here"
+msgstr ""
+
+#: inc/vromon_metabox.php:269
+msgid "Clients Info"
+msgstr ""
+
+#: inc/vromon_metabox.php:278
+msgid "Client Url"
+msgstr ""
+
+#: inc/vromon_metabox.php:280
+msgid "enter website url here"
+msgstr ""
+
+#: kc_extend/extend_kc.php:13
+msgid "Shortcode Importer"
+msgstr ""
+
+#: kc_extend/extend_kc.php:20 kc_extend/extend_kc.php:580
+msgid "Enter Shortcode"
+msgstr ""
+
+#: kc_extend/extend_kc.php:37
+msgid "Home Banner"
+msgstr ""
+
+#: kc_extend/extend_kc.php:45 kc_extend/extend_kc.php:108
+#: kc_extend/extend_kc.php:215 kc_extend/extend_kc.php:547
+msgid "Background Image"
+msgstr ""
+
+#: kc_extend/extend_kc.php:53 kc_extend/extend_kc.php:116
+#: kc_extend/extend_kc.php:171 kc_extend/extend_kc.php:223
+#: kc_extend/extend_kc.php:298 kc_extend/extend_kc.php:333
+#: kc_extend/extend_kc.php:393 kc_extend/extend_kc.php:436
+#: kc_extend/extend_kc.php:470 kc_extend/extend_kc.php:513
+#: kc_extend/extend_kc.php:572
+msgid "Title"
+msgstr ""
+
+#: kc_extend/extend_kc.php:62 kc_extend/extend_kc.php:125
+#: kc_extend/extend_kc.php:342 kc_extend/extend_kc.php:402
+#: kc_extend/extend_kc.php:445 kc_extend/extend_kc.php:479
+#: kc_extend/extend_kc.php:522
+msgid "Section Content"
+msgstr ""
+
+#: kc_extend/extend_kc.php:70 kc_extend/extend_kc.php:133
+#: kc_extend/extend_kc.php:410
+msgid "Button Text"
+msgstr ""
+
+#: kc_extend/extend_kc.php:79 kc_extend/extend_kc.php:142
+msgid "Button Link"
+msgstr ""
+
+#: kc_extend/extend_kc.php:100
+msgid "Home Paralax Banner"
+msgstr ""
+
+#: kc_extend/extend_kc.php:164
+msgid "Services Area"
+msgstr ""
+
+#: kc_extend/extend_kc.php:180
+msgid "SubTitle"
+msgstr ""
+
+#: kc_extend/extend_kc.php:189
+msgid "Number Of Post"
+msgstr ""
+
+#: kc_extend/extend_kc.php:207
+msgid "Why Choice Area"
+msgstr ""
+
+#: kc_extend/extend_kc.php:231
+msgid "Text"
+msgstr ""
+
+#: kc_extend/extend_kc.php:239 kc_extend/extend_kc.php:488
+msgid "Number of Post"
+msgstr ""
+
+#: kc_extend/extend_kc.php:257
+msgid "Counter Area"
+msgstr ""
+
+#: kc_extend/extend_kc.php:265
+msgid "Counter Text"
+msgstr ""
+
+#: kc_extend/extend_kc.php:274
+msgid "Counter Number"
+msgstr ""
+
+#: kc_extend/extend_kc.php:290
+msgid "Special Package"
+msgstr ""
+
+#: kc_extend/extend_kc.php:307
+msgid "Section SubTitle"
+msgstr ""
+
+#: kc_extend/extend_kc.php:325
+msgid "Tour Area"
+msgstr ""
+
+#: kc_extend/extend_kc.php:350
+msgid "Promotional  Text"
+msgstr ""
+
+#: kc_extend/extend_kc.php:358
+msgid "Tour Details Text"
+msgstr ""
+
+#: kc_extend/extend_kc.php:366
+msgid "Number"
+msgstr ""
+
+#: kc_extend/extend_kc.php:384
+msgid "Related Tour"
+msgstr ""
+
+#: kc_extend/extend_kc.php:428
+msgid "Gallery Area"
+msgstr ""
+
+#: kc_extend/extend_kc.php:462
+msgid "Blog Area"
+msgstr ""
+
+#: kc_extend/extend_kc.php:505
+msgid "Testimonials Area"
+msgstr ""
+
+#: kc_extend/extend_kc.php:539
+msgid "Clients Area"
+msgstr ""
+
+#: kc_extend/extend_kc.php:564
+msgid "Contact Us Area"
+msgstr ""
+
+#: kc_extend/extend_kc.php:597
+msgid "Child of Contact Us Area"
+msgstr ""
+
+#: kc_extend/extend_kc.php:614
+msgid "Section Title"
+msgstr ""
+
+#: kc_extend/extend_kc.php:639
+msgid "Latittue"
+msgstr ""
+
+#: kc_extend/extend_kc.php:655
+msgid "API Key"
+msgstr ""
+
+#: template-parts/content-audio.php:44 template-parts/content-search.php:38
+#: template-parts/content-video.php:44 template-parts/content.php:52
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-audio.php:48 template-parts/content-page.php:19
+#: template-parts/content-search.php:42 template-parts/content-video.php:48
+#: template-parts/content.php:56
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
